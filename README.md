@@ -18,20 +18,24 @@
   - [猫咪模拟器](#猫咪模拟器)
    
 
-## 游戏卡牌
-   简介：可以生成三国杀游戏的武将牌
-    测试平台：NewBing
-      关键词：搜索三国杀武将卡，请结合_______的特点,为他生成一张这样的卡牌。（横线处填写你想要，创造的人物的名称，如果这个人不存在则你可以让newbing根据他的特点自行进行生成。）
-    
+### 游戏卡牌
+- 简介：可以生成三国杀游戏的武将牌
+- 测试平台：NewBing
+- 关键词：搜索三国杀武将卡，请结合_______的特点,为他生成一张这样的卡牌。（横线处填写你想要，创造的人物的名称，如果这个人不存在则你可以让newbing根据他的特点自行进行生成。）
+
 ![image](https://raw.githubusercontent.com/femnn/Chatgpt-Create-fun-gameplay/main/image/msedge_nFaD8Q2qLA.png)
 
-## 跑团游戏
-- ChatGPT Plus Subscription with GPT-4 or above models.
+### 跑团游戏
+- 简介：
+- 测试平台：chatgpt
+- 关键词：
 
-## 解谜游戏
-- Default and Legacy GPT-3.5
-- GPT-4 API (It will be costly)
+### 解谜游戏
+- 简介：
+- 测试平台：chatgpt
+- 关键词：
 
-## 猫咪模拟器
-[猫咪](https://github.com/femnn/Chatgpt-Create-fun-gameplay/blob/main/cat.md)
+### 猫咪模拟器
+- 简介：模拟一只小猫的一生
+- 测试平台：chatgpt3.5-4.0，关键词：[猫咪](https://github.com/femnn/Chatgpt-Create-fun-gameplay/blob/main/cat.md)
 
