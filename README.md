@@ -33,4 +33,5 @@
 - GPT-4 API (It will be costly)
 
 ## 猫咪模拟器
+[猫咪](https://github.com/femnn/Chatgpt-Create-fun-gameplay/blob/main/cat.md)
 
