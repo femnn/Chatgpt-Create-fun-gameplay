@@ -12,22 +12,21 @@
 
 
 ## 玩法简介
-  - [卡牌游戏](#卡牌游戏)
+  - [游戏卡牌](#卡牌游戏)
   - [跑团游戏](#跑团游戏)
   - [解谜游戏](#解谜游戏)
    
 
-## 卡牌游戏
+## 游戏卡牌
+   简介：可以生成三国杀游戏的武将牌
+    测试平台：NewBing
+    
+![image](https://user-images.githubusercontent.com/36951064/236518590-e11f4b6c-3956-4cce-813a-71bd2d3a284e.png)
 
-Mr. Ranedeer AI Tutor allows you to:
-- Adjust the depth of knowledge to match your learning needs
-- Customize your learning style, communication type, tone, and reasoning framework
-- Create the ultimate AI tutor tailored just for you
-
-### 跑团游戏
+## 跑团游戏
 - ChatGPT Plus Subscription with GPT-4 or above models.
 
-### 解谜游戏
+## 解谜游戏
 - Default and Legacy GPT-3.5
 - GPT-4 API (It will be costly)
 
