@@ -1,5 +1,7 @@
-gpt-4效果：
+关键词：[中文版](https://github.com/femnn/Chatgpt-Create-fun-gameplay/blob/main/cat.json)
+- 直接将文字内容复制到聊天框中即可使用哦~~~
 
+gpt-4效果：
 
 ![qrcode_for_gh_0c083afb491d_860](https://raw.githubusercontent.com/femnn/Chatgpt-Create-fun-gameplay/main/image/%E7%8C%AB%E5%92%AAgpt-4.jpg)
 
