@@ -16,28 +16,36 @@
 ## 聊天界面玩法
   - [游戏卡牌](#游戏卡牌)
   - [跑团游戏](#跑团游戏)
-  - [解谜游戏](#解谜游戏)
+  - [密室逃脱](#密室逃脱)
   - [猫咪模拟器](#猫咪模拟器)
    
 
 ### 游戏卡牌
 - 简介：可以生成三国杀游戏的武将牌
 - 测试平台：NewBing
-- 关键词：搜索三国杀武将卡，请结合_______的特点,为他生成一张这样的卡牌。（横线处填写你想要，创造的人物的名称，如果这个人不存在则你可以让newbing根据他的特点自行进行生成。）
-
+- 关键词：搜索三国杀武将卡，请结合_______的特点,为他生成一张这样的卡牌。
 ![image](https://raw.githubusercontent.com/femnn/Chatgpt-Create-fun-gameplay/main/image/msedge_nFaD8Q2qLA.png)
-
+- 注意事项：（横线处填写你想要，创造的人物的名称，如果这个人不存在则你可以让newbing根据他的特点自行进行生成。）
+- 当前版本：v1.0.0
 ### 跑团游戏
-- 简介：
-- 测试平台：chatgpt
-- 关键词：
+- 简介：一个自带判定的coc跑团游戏
+- 测试平台：chatgpt-3.5
+- 关键词：[猫咪](https://github.com/femnn/Chatgpt-Create-fun-gameplay/blob/main/cat.md)
+![image](https://raw.githubusercontent.com/femnn/Chatgpt-Create-fun-gameplay/main/image/msedge_nFaD8Q2qLA.png)
+- 注意事项：测试使用的3.5版本4.0版本体验只会更好，游戏做了简化判定使用的是d10，且不支持自定义角色。
+- 当前版本：v1.0.0
 
-### 解谜游戏
-- 简介：
-- 测试平台：chatgpt
-- 关键词：
+### 密室逃脱
+- 简介：带地图的密室逃脱游戏
+- 测试平台：chatgpt-4.0
+- 关键词：[猫咪](https://github.com/femnn/Chatgpt-Create-fun-gameplay/blob/main/cat.md)
+![image](https://raw.githubusercontent.com/femnn/Chatgpt-Create-fun-gameplay/main/image/msedge_nFaD8Q2qLA.png)
+- 注意事项：测试使用的4.0版本，3.5版本的效果不是很理想。
+- 当前版本：v1.0.0
 
 ### 猫咪模拟器
 - 简介：模拟一只小猫的一生
-- 测试平台：chatgpt3.5-4.0，关键词：[猫咪](https://github.com/femnn/Chatgpt-Create-fun-gameplay/blob/main/cat.md)
+- 测试平台：chatgpt3.5-4.0，
+- 关键词：[猫咪](https://github.com/femnn/Chatgpt-Create-fun-gameplay/blob/main/cat.md)
+- 当前版本：v1.0.1
 
