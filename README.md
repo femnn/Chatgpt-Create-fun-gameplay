@@ -4,7 +4,7 @@
 
 本文将提供，本人在chatgpt，newbing中发现的各种有趣的玩法，还在不断进行迭代和增加中，开拓想象，丰富玩法欢迎一起讨论哦~~
 
-[交流与留言](https://github.com/femnn/Chatgpt-Create-fun-gameplay/blob/main/cat.md)
+[交流与留言](https://github.com/femnn/Chatgpt-Create-fun-gameplay/issues)
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/28421346/233538599-ba530dde-4ca1-496e-90a6-b5a565a037c7.jpg" width="400"/> 
