@@ -19,7 +19,11 @@
   - [跑团游戏](#跑团游戏)
   - [密室逃脱](#密室逃脱)
   - [猫咪模拟器](#猫咪模拟器)
-   
+
+## 特色技能玩法
+  - [一句话故事灵感](#一句话故事灵感)
+  - [显示图片与网站](#显示图片与网站)
+
 
 ### 游戏卡牌
 - 简介：可以生成三国杀游戏的武将牌
@@ -53,3 +57,20 @@
 - 关键词：[猫咪](https://github.com/femnn/Chatgpt-Create-fun-gameplay/blob/main/cat.md)
 - 当前版本：v1.0.1
 
+### 一句话故事灵感
+- 简介：获取创造故事的灵感，进行剧本创作，充满创意的一句话故事
+- 测试平台：chatgpt-3.5-4.0
+- 关键词：搜索三国杀武将卡，请结合_______的特点,为他生成一张这样的卡牌。
+
+![image](https://raw.githubusercontent.com/femnn/Chatgpt-Create-fun-gameplay/main/image/scaii%E7%AC%A6%E5%8F%B7%E5%AF%86%E5%AE%A4.jpg)
+- 注意事项：测试使用的4.0版本，3.5版本的效果不是很理想。
+- 当前版本：v1.0.0
+
+### 显示图片与网站
+- 简介：可以为你显示定制的图片和网站链接
+- 测试平台：chatgpt-3.5-4.0/讯飞星火
+- 关键词：[图片与网站](https://github.com/femnn/Chatgpt-Create-fun-gameplay/blob/main/%E5%AF%86%E5%AE%A4.json)
+
+![image](https://raw.githubusercontent.com/femnn/Chatgpt-Create-fun-gameplay/main/image/scaii%E7%AC%A6%E5%8F%B7%E5%AF%86%E5%AE%A4.jpg)
+- 注意事项：测试使用的4.0版本，3.5版本的效果不是很理想。
+- 当前版本：v1.0.0
