@@ -60,17 +60,18 @@
 ### 一句话故事灵感
 - 简介：获取创造故事的灵感，进行剧本创作，充满创意的一句话故事
 - 测试平台：chatgpt-3.5-4.0
-- 关键词：搜索三国杀武将卡，请结合_______的特点,为他生成一张这样的卡牌。
+- 关键词：[灵感](https://github.com/femnn/Chatgpt-Create-fun-gameplay/blob/main/%E7%81%B5%E6%84%9F.json)
 
-![image](https://raw.githubusercontent.com/femnn/Chatgpt-Create-fun-gameplay/main/image/scaii%E7%AC%A6%E5%8F%B7%E5%AF%86%E5%AE%A4.jpg)
-- 注意事项：测试使用的4.0版本，3.5版本的效果不是很理想。
+![image](https://raw.githubusercontent.com/femnn/Chatgpt-Create-fun-gameplay/main/image/%E4%B8%80%E5%8F%A5%E8%AF%9D.png)
+- 注意事项：4.0版本要比3.5版本想象力和内容更具有创意
 - 当前版本：v1.0.0
 
 ### 显示图片与网站
 - 简介：可以为你显示定制的图片和网站链接
 - 测试平台：chatgpt-3.5-4.0/讯飞星火
-- 关键词：[图片与网站](https://github.com/femnn/Chatgpt-Create-fun-gameplay/blob/main/%E5%AF%86%E5%AE%A4.json)
+- 关键词：[图片与网站](https://github.com/femnn/Chatgpt-Create-fun-gameplay/blob/main/%E5%9B%BE%E7%89%87%E4%B8%8E%E7%BD%91%E7%AB%99.json)
 
-![image](https://raw.githubusercontent.com/femnn/Chatgpt-Create-fun-gameplay/main/image/scaii%E7%AC%A6%E5%8F%B7%E5%AF%86%E5%AE%A4.jpg)
-- 注意事项：测试使用的4.0版本，3.5版本的效果不是很理想。
+![image](https://raw.githubusercontent.com/femnn/Chatgpt-Create-fun-gameplay/main/image/%E7%BD%91%E7%AB%99%E5%92%8C%E5%9B%BE%E7%89%87.png)
+![image](https://raw.githubusercontent.com/femnn/Chatgpt-Create-fun-gameplay/main/image/tongyi.png)
+- 注意事项：讯飞星火使用的时候显示不了网站链接，图片显示触发成功率不高。
 - 当前版本：v1.0.0
