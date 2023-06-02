@@ -11,8 +11,7 @@
   <p>欢迎订阅我的公众号！</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/femnn/Chatgpt-Create-fun-gameplay/main/image/%E4%B8%8B%E8%BD%BD.png(https://raw.githubusercontent.com/femnn/ai-hualiaoshi/main/your_photo_url.jpg)" width="200"/> ](https://raw.githubusercontent.com/femnn/ai-hualiaoshi/main/your_photo_url.jpg)
-请我喝杯奶茶，感谢支持~~
+(https://raw.githubusercontent.com/femnn/ai-hualiaoshi/main/your_photo_url.jpg)请我喝杯奶茶，感谢支持~~
 
 ## 聊天界面玩法
   - [游戏卡牌](#游戏卡牌)
