@@ -6,12 +6,13 @@
 
 [交流与留言](https://github.com/femnn/Chatgpt-Create-fun-gameplay/issues)
 
-<div align=center>
+
 <img src="https://user-images.githubusercontent.com/28421346/233538599-ba530dde-4ca1-496e-90a6-b5a565a037c7.jpg" width="400"/> 
   <p>欢迎订阅我的公众号！</p>
-</div>
 
-(https://raw.githubusercontent.com/femnn/ai-hualiaoshi/main/your_photo_url.jpg)请我喝杯奶茶，感谢支持~~
+
+<img src="https://raw.githubusercontent.com/femnn/ai-hualiaoshi/main/your_photo_url.jpg" width="400"/> 
+请我喝杯奶茶，感谢支持~~
 
 ## 聊天界面玩法
   - [游戏卡牌](#游戏卡牌)
